@@ -1,8 +1,9 @@
 export const T=[
 ["Skin boosters","Injectable hydration that works from the inside out, to plump, smooth and revive dull, dry skin.","From £80 or 3 for £199"],
 ["Personalised micro-needling","A course tailored to your skin to improve texture, tone and the look of fine lines.","Price on consultation"],
-["Polynucleotides (PN)","Regenerative treatment to support skin quality, particularly delicate areas such as under the eyes.","Price on consultation"],
-["PLLA (Poly-L-Lactic Acid)","A collagen-stimulating treatment that gradually improves skin firmness and quality over time.","Price on consultation"],
+["Polynucleotides (PN & PDRN)","Stimulates fibroblasts for long-term collagen and elastin, supporting repair and healing for deeper regeneration and longer-lasting results.","Price on consultation"],
+["Sculptra (PLLA)","Stimulates your own collagen to gradually improve skin structure, firmness and quality over time, with natural-looking results.","Price on consultation"],
+["Profhilo Structura","A core part of my Double Jowl Lift approach, designed to support and remodel facial adipose tissue rather than simply adding volume.","Price on consultation"],
 ["Chemical peels","Resurfacing peels chosen for your skin concerns, from congestion and texture to uneven tone.","Price on consultation"],
 ["SOSUM soft mesotherapy","A gentle approach for areas such as frown lines, softening the appearance of expression lines.","Price on consultation"],
 ["Derma 2.0: Derma Eye & Derma Bio","Targeted bio-revitalising formulas for tired eyes, fine lines and overall skin renewal.","Price on consultation"],
